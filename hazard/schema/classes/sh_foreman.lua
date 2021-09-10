@@ -2,6 +2,6 @@ CLASS.name = "Foreman"
 
 CLASS.faction = FACTION_EMPLOYEE
 
-CLASS.isDefault = 
+CLASS.isDefault = false
 
-CLASS_Foreman = CLASS.index
+CLASS_FOREMAN = CLASS.index
