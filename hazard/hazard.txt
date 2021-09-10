@@ -1,0 +1,8 @@
+
+"hazard"
+{
+	"base" 			"helix"
+	"title" 		"Hazardous Waste"
+	"author" 		"Chezyy, Zang, Link, Monolith"
+	"menusystem"	"1"
+}
