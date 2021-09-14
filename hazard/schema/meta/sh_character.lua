@@ -4,6 +4,6 @@
 
 local CHAR = ix.meta.character
 
-function CHAR:IsPolice()
-	return self:GetFaction() == FACTION_POLICE
+function CHAR:IsEmployee()
+	return self:GetFaction() == FACTION_EMPLOYEE
 end

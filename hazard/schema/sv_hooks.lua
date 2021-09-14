@@ -6,6 +6,9 @@ function Schema:GetPlayerDeathSound(client)
 	local character = client:GetCharacter()
 
 	if (character and character:IsEmployee()) then
-		return "vo/ravenholm/monk_death07.wav"
-	end
+		
+    return "vo/ravenholm/monk_death07.wav"
+	
+  end
+
 end
