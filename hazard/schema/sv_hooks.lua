@@ -1,7 +1,6 @@
 
 -- Here is where all of your serverside hooks should go.
 
--- Change death sounds of people in the police faction to the metropolice death sound.
 function Schema:GetPlayerDeathSound(client)
 	local character = client:GetCharacter()
 
@@ -9,6 +8,12 @@ function Schema:GetPlayerDeathSound(client)
 		
     return "vo/ravenholm/monk_death07.wav"
 	
+  end
+
+  if (character and character:IsRot()) then
+
+    return "zombie sound here"
+
   end
 
 end

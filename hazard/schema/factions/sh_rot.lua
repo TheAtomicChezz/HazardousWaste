@@ -2,7 +2,7 @@ FACTION.name = "ROT"
 
 FACTION.description = "That which wishes to destroy us all."
 
-FACTION.pay =
+FACTION.pay = 0
 
 FACTION.isGloballyRecognized = true
 

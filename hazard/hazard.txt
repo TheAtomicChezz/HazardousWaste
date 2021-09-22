@@ -3,6 +3,6 @@
 {
 	"base" 			"helix"
 	"title" 		"Hazardous Waste"
-	"author" 		"Chezyy, Zang, Link, Monolith"
+	"author" 		"Chezyy, Zang, Monolith"
 	"menusystem"	"1"
 }
